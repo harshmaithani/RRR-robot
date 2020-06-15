@@ -1,4 +1,4 @@
-/* Remy Robotics Test
+/* 
 
 DH Parameters
 Link  alpha    a      d     joint angle
